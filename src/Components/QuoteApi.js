@@ -1,0 +1,35 @@
+
+const motivationalQuotes = [
+    { quote: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+    { quote: "The harder you work for something, the greater you'll feel when you achieve it.", author: "Unknown" },
+    { quote: "Don't watch the clock; do what it does. Keep going.", author: "Sam Levenson" },
+    { quote: "Success is not how high you have climbed, but how you make a positive difference to the world.", author: "Roy T. Bennett" },
+    { quote: "Success usually comes to those who are too busy to be looking for it.", author: "Henry David Thoreau" },
+    { quote: "Don't be afraid to give up the good to go for the great.", author: "John D. Rockefeller" },
+    { quote: "I find that the harder I work, the more luck I seem to have.", author: "Thomas Jefferson" },
+    { quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", author: "Albert Schweitzer" },
+    { quote: "Success is walking from failure to failure with no loss of enthusiasm.", author: "Winston Churchill" },
+    { quote: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
+    { quote: "Don't let yesterday take up too much of today.", author: "Will Rogers" },
+    { quote: "You learn more from failure than from success. Don't let it stop you. Failure builds character.", author: "Unknown" },
+    { quote: "It's not whether you get knocked down, it's whether you get up.", author: "Vince Lombardi" },
+    { quote: "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.", author: "Steve Jobs" },
+    { quote: "People who are crazy enough to think they can change the world, are the ones who do.", author: "Rob Siltanen" },
+    { quote: "Failure will never overtake me if my determination to succeed is strong enough.", author: "Og Mandino" },
+    { quote: "Entrepreneurs are great at dealing with uncertainty and also very good at minimizing risk. That's the classic entrepreneur.", author: "Mohnish Pabrai" },
+    { quote: "We may encounter many defeats but we must not be defeated.", author: "Maya Angelou" },
+    { quote: "Knowing is not enough; we must apply. Wishing is not enough; we must do.", author: "Johann Wolfgang Von Goethe" },
+    { quote: "Imagine your life is perfect in every respect; what would it look like?", author: "Brian Tracy" },
+    { quote: "We generate fears while we sit. We overcome them by action.", author: "Dr. Henry Link" },
+    { quote: "Whether you think you can or think you can't, you're right.", author: "Henry Ford" },
+    { quote: "Security is mostly a superstition. Life is either a daring adventure or nothing.", author: "Helen Keller" },
+    { quote: "The man who has confidence in himself gains the confidence of others.", author: "Hasidic Proverb" },
+    { quote: "The only limit to our realization of tomorrow is our doubts of today.", author: "Franklin D. Roosevelt" },
+    { quote: "Creativity is intelligence having fun.", author: "Albert Einstein" },
+    { quote: "What you lack in talent can be made up with desire, hustle, and giving 110% all the time.", author: "Don Zimmer" },
+    { quote: "Do what you can with all you have, wherever you are.", author: "Theodore Roosevelt" },
+    { quote: "Develop an 'attitude of gratitude'. Say thank you to everyone you meet for everything they do for you.", author: "Brian Tracy" },
+    { quote: "You are never too old to set another goal or to dream a new dream.", author: "C.S. Lewis" }
+];
+
+export {motivationalQuotes}
