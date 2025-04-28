@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Random-Quote-Generator/static/css/main.af60fced.css",
-    "main.js": "/Random-Quote-Generator/static/js/main.e11d7a60.js",
-    "static/js/453.42c8d0f0.chunk.js": "/Random-Quote-Generator/static/js/453.42c8d0f0.chunk.js",
-    "index.html": "/Random-Quote-Generator/index.html",
-    "main.af60fced.css.map": "/Random-Quote-Generator/static/css/main.af60fced.css.map",
-    "main.e11d7a60.js.map": "/Random-Quote-Generator/static/js/main.e11d7a60.js.map",
-    "453.42c8d0f0.chunk.js.map": "/Random-Quote-Generator/static/js/453.42c8d0f0.chunk.js.map"
+    "main.css": "/binaryquote/static/css/main.e3471da2.css",
+    "main.js": "/binaryquote/static/js/main.00e91f6c.js",
+    "static/js/453.74ec584a.chunk.js": "/binaryquote/static/js/453.74ec584a.chunk.js",
+    "index.html": "/binaryquote/index.html",
+    "main.e3471da2.css.map": "/binaryquote/static/css/main.e3471da2.css.map",
+    "main.00e91f6c.js.map": "/binaryquote/static/js/main.00e91f6c.js.map",
+    "453.74ec584a.chunk.js.map": "/binaryquote/static/js/453.74ec584a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af60fced.css",
-    "static/js/main.e11d7a60.js"
+    "static/css/main.e3471da2.css",
+    "static/js/main.00e91f6c.js"
   ]
 }
