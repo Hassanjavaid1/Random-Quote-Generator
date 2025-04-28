@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/binaryquote/static/css/main.e3471da2.css",
+    "main.css": "/binaryquote/static/css/main.bcee7e7f.css",
     "main.js": "/binaryquote/static/js/main.00e91f6c.js",
     "static/js/453.74ec584a.chunk.js": "/binaryquote/static/js/453.74ec584a.chunk.js",
     "index.html": "/binaryquote/index.html",
-    "main.e3471da2.css.map": "/binaryquote/static/css/main.e3471da2.css.map",
+    "main.bcee7e7f.css.map": "/binaryquote/static/css/main.bcee7e7f.css.map",
     "main.00e91f6c.js.map": "/binaryquote/static/js/main.00e91f6c.js.map",
     "453.74ec584a.chunk.js.map": "/binaryquote/static/js/453.74ec584a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3471da2.css",
+    "static/css/main.bcee7e7f.css",
     "static/js/main.00e91f6c.js"
   ]
 }
