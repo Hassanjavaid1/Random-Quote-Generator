@@ -34,13 +34,6 @@ function Quote() {
     }
   };
 
-  // Social share handle.
-  // const getLinkedinURL = (quote, author) => {
-  //   const baseUrl = "https://twitter.com/intent/tweet";
-  //   const text = encodeURIComponent(`"${quote}" - ${author}`);
-  //   return `${baseUrl}?text=${text}`;
-  // };
-
   useEffect(() => {
     fetchQuote();
   }, []);
@@ -82,9 +75,15 @@ function Quote() {
             >
               <FaLinkedinIn id="share" />
             </LinkedinShareButton>
-            <button id="new-quote" onClick={() => fetchQuote()}>
-              <GrLinkNext />
-            </button>
+            {isLoading ? (
+              <button id="new-quote" disabled>
+                Loading...
+              </button>
+            ) : (
+              <button id="new-quote" onClick={() => fetchQuote()}>
+                <GrLinkNext />
+              </button>
+            )}
           </div>
         </div>
       </div>
