@@ -1,10 +1,10 @@
-import './App.css';
-import Quote from './Components/Quote';
+import "./App.css";
+import Quote from "./components/Quote";
 
 function App() {
   return (
     <>
-    <Quote/>
+      <Quote />
     </>
   );
 }

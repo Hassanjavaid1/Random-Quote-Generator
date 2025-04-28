@@ -1,5 +1,5 @@
 
-const motivationalQuotes = [
+const quotes = [
     { quote: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
     { quote: "The harder you work for something, the greater you'll feel when you achieve it.", author: "Unknown" },
     { quote: "Don't watch the clock; do what it does. Keep going.", author: "Sam Levenson" },
@@ -32,4 +32,4 @@ const motivationalQuotes = [
     { quote: "You are never too old to set another goal or to dream a new dream.", author: "C.S. Lewis" }
 ];
 
-export {motivationalQuotes}
+export {quotes}
